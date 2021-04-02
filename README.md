@@ -1,6 +1,6 @@
 # Data Science Project - Airbnb
 
-This project consists of analyzing a dataset containing Airbnb records from New York City in the year 2019 and understand how their customers behave
+This project consists of analyzing a dataset containing Airbnb records from New York City in the year 2019 and understanding how their customers behave
 
 This dataset contains over 48,000 records containing the following:
 
