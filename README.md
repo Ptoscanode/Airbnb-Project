@@ -27,7 +27,7 @@ The project needs the following libraries in the Anaconda distribution to run:
 ## Files in the repository
 
 ```Airbnb Project.ipynb```: Jupyter notebook containing analysis of the project
-AB_NYC_2019.csv: Airbnb dataset downloaded from [Kaggle] (https://www.kaggle.com/dgomonov/new-york-city-airbnb-open-data)
+```AB_NYC_2019.csv```: Airbnb dataset downloaded from [Kaggle](https://www.kaggle.com/dgomonov/new-york-city-airbnb-open-data)
 
 
 ## Results
