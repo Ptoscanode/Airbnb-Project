@@ -36,8 +36,22 @@ The project needs the following libraries in the Anaconda distribution to run:
 ```Airbnb Project.ipynb```: Jupyter notebook containing analysis of the project
 <br/>
 ```AB_NYC_2019.csv```: Airbnb dataset downloaded from [Kaggle](https://www.kaggle.com/dgomonov/new-york-city-airbnb-open-data)
-
+<br/>
+```picture1.png```: chart to be used in the README file to illustrate the project
+<br/>
+```picture2.png```: chart to be used in the README file to illustrate the project
+<br/>
+```picture9.png```: chart to be used in the README file to illustrate the project
 
 ## Results
 
 The project summary can be found on [Medium](https://paulo-toscano.medium.com/)
+
+
+## Acknowledgements
+
+(https://pandas.pydata.org)
+(https://matplotlib.org)
+(https://seaborn.pydata.org)
+https://github.com/othneildrew/Best-README-Template/blob/master/README.md)
+(https://github.community/t/how-do-you-put-images-on-the-readme-md-file/576)
