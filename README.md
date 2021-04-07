@@ -16,7 +16,7 @@ Airbnb operates an online marketplace for lodging, primarily homestays for vacat
 
 To answer these questions, charts likes the ones below will be created through the use of functions
 
-![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+![Image](https://github.com/Ptoscanode/Airbnb-Project/blob/main/picture1.png)
 
 ## Requirements
 
