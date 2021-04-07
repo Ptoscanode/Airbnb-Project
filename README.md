@@ -16,7 +16,7 @@ Airbnb operates an online marketplace for lodging, primarily homestays for vacat
 
 To answer these questions, charts likes the ones below will be created through the use of functions
 
-!(C:/MyPictures/picture1.png)
+![Image](https://www.google.com/url?sa=i&url=https%3A%2F%2Fny.curbed.com%2F2018%2F11%2F5%2F18063012%2Fstaten-island-new-york-wheel-development&psig=AOvVaw1FCCZ5dETUWDPeXXZmKnrD&ust=1617904646735000&source=images&cd=vfe&ved=2ahUKEwjeyKHP2uzvAhUVn3IEHZnVBbQQjRx6BAgAEAc)
 
 
 ## Requirements
