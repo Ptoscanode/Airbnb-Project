@@ -14,6 +14,10 @@ Airbnb operates an online marketplace for lodging, primarily homestays for vacat
 - What is the mean minimum nights distribution by room type?
 - What is the minimum, maximum and average number of nights people spend by borough and room type?
 
+To answer these questions, charts likes the ones below will be created through the use of functions
+
+!(C:/MyPictures/picture1.png)
+
 
 ## Requirements
 
