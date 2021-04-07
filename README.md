@@ -50,12 +50,12 @@ The project summary can be found on [Medium](https://paulo-toscano.medium.com/)
 
 ## Acknowledgements
 
-[link](https://pandas.pydata.org)
+(https://pandas.pydata.org)
 <br/>
-[link](https://matplotlib.org)
+(https://matplotlib.org)
 <br/>
-[link](https://seaborn.pydata.org)
+(https://seaborn.pydata.org)
 <br/>
-[link](https://github.com/othneildrew/Best-README-Template/blob/master/README.md)
+(https://github.com/othneildrew/Best-README-Template/blob/master/README.md)
 <br/>
-[link](https://github.community/t/how-do-you-put-images-on-the-readme-md-file/576)
+https://github.community/t/how-do-you-put-images-on-the-readme-md-file/576
