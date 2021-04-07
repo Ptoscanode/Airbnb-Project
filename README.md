@@ -18,6 +18,10 @@ To answer these questions, charts likes the ones below will be created through t
 
 ![Image](https://github.com/Ptoscanode/Airbnb-Project/blob/main/picture1.png)
 
+![Image](https://github.com/Ptoscanode/Airbnb-Project/blob/main/picture2.png)
+
+![Image](https://github.com/Ptoscanode/Airbnb-Project/blob/main/picture9.png)
+
 ## Requirements
 
 The project needs the following libraries in the Anaconda distribution to run:
